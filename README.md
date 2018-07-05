@@ -1,6 +1,4 @@
----
-description: Resources and News
----
+# AFSCME
 
-# Local 3940
+
 
